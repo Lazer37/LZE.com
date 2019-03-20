@@ -6,12 +6,13 @@ Since the beginning of the 2005-06 season, Bayern has played its home games at t
 
 <h2> Content</h2>
 <ol>
-  <li><a href="<h3> History</h3>">History</a></li>
-  <li><a href="<h3> Players</h3>">Players</a></li>
-  <li><a href="<h3> Management Team</h3>">Management Team</a></li>
+  <li><a id="History">History</a></li>
+  <li><a id="Players">Players</a></li>
+  <li><a id="Management Team">Management Team</a></li>
 </ol>
 
 <h3> History</h3>
+<a href="#History"></a>
 FC Bayern Munich was founded by members of a Munich gymnastics club (MTV 1879). When a congregation of members of MTV 1879 decided on 27 February 1900 that the footballers of the club would not be allowed to join the German Football Association (DFB), 11 members of the football division left the congregation and on the same evening founded Fusball-Club Bayern Munchen. Within a few months, Bayern achieved high-scoring victories against all local rivals, including a 15–0 win against FC Nordstern, and reached the semi-finals of the 1900-01 South German championship.
 The 1980s were a period of off-field turmoil for Bayern, with many changes in personnel and financial problems. On the field, Paul Breitner and Karl-Heinz Rummenigge, termed FC Breitnigge, led the team to Bundesliga titles in 1980 and 1981. Apart from a DFB-Pokal win in 1982, two relatively unsuccessful seasons followed, after which Breitner retired and former coach Udo Lattek returned. Bayern won the DFB-Pokal in 1984 and went on to win five Bundesliga championships in six seasons, including a double in 1986. European success, however, was elusive during the decade; Bayern managed to claim the runners-up spot in the European Cup in 1982 and 1987.
 The 2001-02 season began with a win in the Intercontinental Cup.Prior to the start of the 2005–06 season, Bayern moved from the Olympiastadion to the new Allianz Arena, which the club shares with 1860 Munich. On the field, their performance in 2006-07 was erratic. Trailing in the league and having lost to Alemannia Aachen in the cup yet again, coach Magath was sacked shortly after the winter break.
@@ -19,6 +20,7 @@ In the 2010-11 season, Bayern were eliminated in the first round of the Champion
 After it became clear that Heynckes would not continue as head coach, the club began a long and extensive search for a replacement. On 1 July 2018, the former Bayern Munich player Niko Kovac was officially confirmed as the next head coach, signing a three-year deal.
 
 <h3> Players</h3>
+<a href="#Players"></a>
 <table border="1“ style="width:300px">
 <tr>
 <td>Number</td>
@@ -123,6 +125,7 @@ After it became clear that Heynckes would not continue as head coach, the club b
 </table>
 
 <h3> Management Team</h3>
+<a href="#Management Team"></a>
 President FC Bayern Munich and chairman of the board:[Uli Hoenes](https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F)
 <img data-v-545549d3="" data-v-df0ebec6="" src="https://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg" class="graph-img-opacity">
 
