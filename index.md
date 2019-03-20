@@ -127,10 +127,9 @@ President FC Bayern Munich and chairman of the board:<a href="https://en.wikiped
 <p>
   <img src="http://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg" />
   </p>
-<img src="https://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg" />
 
 Chairman:[Karl-Heinz Rummeniggev](https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge)
 <p>
+  <img src="http://graph.baidu.com/resource/1017eb9383ff1f4e874f401553046405.jpg" />
 <img src="D:/images/3.jpg" width="100" />
   </p>
-<img src="https://graph.baidu.com/resource/1017eb9383ff1f4e874f401553046405.jpg" />
