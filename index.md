@@ -5,11 +5,13 @@ FC Bayern was founded in 1900 by 11 football players, led by Franz John. Althoug
 Since the beginning of the 2005-06 season, Bayern has played its home games at the Allianz Arena. Previously the team had played at Munich's Olympiastadion for 33 years. The team colours are red and white, and the team crest shows the white and blue flag of Bavaria. In terms of revenue, Bayern Munich is the biggest sports club in Germany and the fourth highest-earning football club in the world. In November 2018, Bayern had 291,000 official members and there are 4,433 officially registered fan clubs with over 390,000 members. The club has other departments for chess, handball, basketball, gymnastics, bowling, table tennis and senior football with more than 1,100 active members. As of January 2019, FC Bayern is ranked joint second in the current UEFA club coefficient rankings.
 
 <h2> Content </h2>
-- History <a href=" h3 History" >
-- Players <a href=" h3 Players" >
-- Management Team <a href=" h3 Management Team" >
+<ol>
+  <li><a href=" <h3> History</h3>History</li>
+<li>Players</li>
+<li>Management Team</li>
+</ol>
 
-<h3> History </h3>
+<h3> History</h3>
 FC Bayern Munich was founded by members of a Munich gymnastics club (MTV 1879). When a congregation of members of MTV 1879 decided on 27 February 1900 that the footballers of the club would not be allowed to join the German Football Association (DFB), 11 members of the football division left the congregation and on the same evening founded Fusball-Club Bayern Munchen. Within a few months, Bayern achieved high-scoring victories against all local rivals, including a 15–0 win against FC Nordstern, and reached the semi-finals of the 1900-01 South German championship.
 The 1980s were a period of off-field turmoil for Bayern, with many changes in personnel and financial problems. On the field, Paul Breitner and Karl-Heinz Rummenigge, termed FC Breitnigge, led the team to Bundesliga titles in 1980 and 1981. Apart from a DFB-Pokal win in 1982, two relatively unsuccessful seasons followed, after which Breitner retired and former coach Udo Lattek returned. Bayern won the DFB-Pokal in 1984 and went on to win five Bundesliga championships in six seasons, including a double in 1986. European success, however, was elusive during the decade; Bayern managed to claim the runners-up spot in the European Cup in 1982 and 1987.
 The 2001-02 season began with a win in the Intercontinental Cup.Prior to the start of the 2005–06 season, Bayern moved from the Olympiastadion to the new Allianz Arena, which the club shares with 1860 Munich. On the field, their performance in 2006-07 was erratic. Trailing in the league and having lost to Alemannia Aachen in the cup yet again, coach Magath was sacked shortly after the winter break.
