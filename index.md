@@ -6,9 +6,9 @@ Since the beginning of the 2005-06 season, Bayern has played its home games at t
 
 <h2> Content</h2>
 <ol>
-  <li><a href="History">History</a></li>
-  <li><a href="Players">Players</a></li>
-  <li><a href="Management Team">Management Team</a></li>
+  <li><a href="<h3> History</h3>">History</a></li>
+  <li><a href="<h3> Players</h3>">Players</a></li>
+  <li><a href="<h3> Management Team</h3>">Management Team</a></li>
 </ol>
 
 <h3> History</h3>
