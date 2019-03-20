@@ -10,7 +10,7 @@ Since the beginning of the 2005-06 season, Bayern has played its home games at t
 - Management Team <a href=" ### Management Team" >
 
 ### History
-<a href=” #- History” >
+<a href=" - History" >
 FC Bayern Munich was founded by members of a Munich gymnastics club (MTV 1879). When a congregation of members of MTV 1879 decided on 27 February 1900 that the footballers of the club would not be allowed to join the German Football Association (DFB), 11 members of the football division left the congregation and on the same evening founded Fusball-Club Bayern Munchen. Within a few months, Bayern achieved high-scoring victories against all local rivals, including a 15–0 win against FC Nordstern, and reached the semi-finals of the 1900-01 South German championship.
 The 1980s were a period of off-field turmoil for Bayern, with many changes in personnel and financial problems. On the field, Paul Breitner and Karl-Heinz Rummenigge, termed FC Breitnigge, led the team to Bundesliga titles in 1980 and 1981. Apart from a DFB-Pokal win in 1982, two relatively unsuccessful seasons followed, after which Breitner retired and former coach Udo Lattek returned. Bayern won the DFB-Pokal in 1984 and went on to win five Bundesliga championships in six seasons, including a double in 1986. European success, however, was elusive during the decade; Bayern managed to claim the runners-up spot in the European Cup in 1982 and 1987.
 The 2001-02 season began with a win in the Intercontinental Cup.Prior to the start of the 2005–06 season, Bayern moved from the Olympiastadion to the new Allianz Arena, which the club shares with 1860 Munich. On the field, their performance in 2006-07 was erratic. Trailing in the league and having lost to Alemannia Aachen in the cup yet again, coach Magath was sacked shortly after the winter break.
@@ -20,59 +20,38 @@ After it became clear that Heynckes would not continue as head coach, the club b
 ### Players
 <a href=" - Players" >
 |Number|Name|
-|----|----|
 |1|Manuel Neuer|
-|----|----|
 |4|Niklas Sule|
-|----|----|
 |5|Mats Hummels|
-|----|----|
 |6|Thiago|
-|----|----|
 |7|Franck Ribery|
-|----|----|
 |8|Javi Martinez|
-|----|----|
 |9|Robert Lewandowski|
-|----|----|
 |10|Arjen Robben|
-|----|----|
 |11|James Rodriguez|
-|----|----|
 |13|Rafinha|
-|----|----|
 |17|Jerome Boateng|
-|----|----|
 |18|Leon Goretzka|
-|----|----|
 |19|Alphonso Davies|
-|----|----|
 |20|Jeong Woo-yeong|
-|----|----|
 |22|Serge Gnabry|
-|----|----|
 |24|Corentin Tolisso|
-|----|----|
 |25|Thomas Muller|
-|----|----|
 |26|Sven Ulreich|
-|----|----|
 |27|David Alaba|
-|----|----|
 |29|Kingsley Coman|
-|----|----|
 |32|Joshua Kimmich|
-|----|----|
 |35|Renato Sanches|
-|----|----|
 |36|Christian Fruchtl|
 
 
 ### Management Team
 <a href=" - Management Team" >
 President FC Bayern Munich and chairman of the board:[Uli Hoenes](https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F)
-!(D:\images\2.jpg)
+<img data-v-545549d3="" data-v-df0ebec6="" src="https://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg" class="graph-img-opacity">
 
 Chairman:[Karl-Heinz Rummeniggev](https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge)
+<img data-v-545549d3="" data-v-df0ebec6="" src="https://graph.baidu.com/resource/1017eb9383ff1f4e874f401553046405.jpg" class="graph-img-opacity">
+
 !(D:\images\3.jpg)
 
