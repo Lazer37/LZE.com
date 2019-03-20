@@ -19,7 +19,7 @@ In the 2010-11 season, Bayern were eliminated in the first round of the Champion
 After it became clear that Heynckes would not continue as head coach, the club began a long and extensive search for a replacement. On 1 July 2018, the former Bayern Munich player Niko Kovac was officially confirmed as the next head coach, signing a three-year deal.
 
 <h3> Players</h3>
-<table border="1“ style="width:300px">
+<table>
 <tr>
 <td>Number</td>
 <td>Name</td>
@@ -124,8 +124,8 @@ After it became clear that Heynckes would not continue as head coach, the club b
 
 <h3> Management Team</h3>
 President FC Bayern Munich and chairman of the board:<a href="https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F">Uli Hoenes</a>
-<img data-v-545549d3="" data-v-df0ebec6="" src="https://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg" class="graph-img-opacity">
+<img src="https://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg">
 
 Chairman:[Karl-Heinz Rummeniggev](https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge)
-<img data-v-545549d3="" data-v-df0ebec6="" src="https://graph.baidu.com/resource/1017eb9383ff1f4e874f401553046405.jpg" class="graph-img-opacity">
+<img src="https://graph.baidu.com/resource/1017eb9383ff1f4e874f401553046405.jpg">
 
