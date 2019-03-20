@@ -6,7 +6,7 @@ Since the beginning of the 2005-06 season, Bayern has played its home games at t
 
 <h2> Content</h2>
 <ol>
-<li>History</li>
+<li>History</li><a href=" History" />
 <li>Players</li>
 <li>Management Team</li>
 </ol>
@@ -19,32 +19,108 @@ In the 2010-11 season, Bayern were eliminated in the first round of the Champion
 After it became clear that Heynckes would not continue as head coach, the club began a long and extensive search for a replacement. On 1 July 2018, the former Bayern Munich player Niko Kovac was officially confirmed as the next head coach, signing a three-year deal.
 
 <h3> Players</h3>
-|Number|Name|
-|----|----|
-|1|Manuel Neuer|
-|4|Niklas Sule|
-|5|Mats Hummels|
-|6|Thiago|
-|7|Franck Ribery|
-|8|Javi Martinez|
-|9|Robert Lewandowski|
-|10|Arjen Robben|
-|11|James Rodriguez|
-|13|Rafinha|
-|17|Jerome Boateng|
-|18|Leon Goretzka|
-|19|Alphonso Davies|
-|20|Jeong Woo-yeong|
-|22|Serge Gnabry|
-|24|Corentin Tolisso|
-|25|Thomas Muller|
-|26|Sven Ulreich|
-|27|David Alaba|
-|29|Kingsley Coman|
-|32|Joshua Kimmich|
-|35|Renato Sanches|
-|36|Christian Fruchtl|
-
+<table border="1“ style="width:300px">
+<tr>
+<td>Number</td>
+<td>Name</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Manuel Neuer (captain)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Niklas Sule</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mats Hummels</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Thiago</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Franck Ribery</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Javi Martinez</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Robert Lewandowski</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Arjen Robben</td>
+</tr>
+<tr>
+<td>11</td>
+<td>James Rodriguez</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Rafinha</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Jerome Boateng</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Leon Goretzka</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Alphonso Davies</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Jeong Woo-yeong</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Serge Gnabry</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Corentin Tolisso</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Thomas Muller</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Sven Ulreich</td>
+</tr>
+<tr>
+<td>27</td>
+<td>David Alaba</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Kingsley Coman</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Joshua Kimmich</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Renato Sanches</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Christian Fruchtl</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Ron-Thorben Hoffmann</td>
+</tr>
+</table>
 
 <h3> Management Team</h3>
 President FC Bayern Munich and chairman of the board:[Uli Hoenes](https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F)
