@@ -1,4 +1,4 @@
-<h1> FC Bayern Munich
+<h1> FC Bayern Munich</h1>
 
 FC Bayern Munchen is a German sports club based in Munich, Bavaria (Bayern). It is best known for its professional football team, which plays in the Bundesliga, the top tier of the German football league system, and is the most successful club in German football history, having won a record 28 national titles and 18 national cups.
 FC Bayern was founded in 1900 by 11 football players, led by Franz John. Although Bayern won its first national championship in 1932, the club was not selected for the Bundesliga at its inception in 1963. The club had its period of greatest success in the middle of the 1970s when, under the captaincy of Franz Beckenbauer, it won the European Cup three times in a row (1974-1976). Overall, Bayern has reached ten European Cup/UEFA Champions League finals, most recently winning their fifth title in 2013 as part of a continental treble. Bayern has also won one UEFA Cup, one European Cup Winners' Cup, one UEFA Super Cup, one FIFA Club World Cup and two Intercontinental Cups, making it one of the most successful European clubs internationally and the only German club to have won both international titles. Since the formation of the Bundesliga, Bayern has been the dominant club in German football, winning 27 titles, including six consecutively since 2013. They have traditional local rivalries with 1860 Munich and 1. FC Nurnberg, as well as with Borussia Dortmund since the mid-1990s.
@@ -11,14 +11,14 @@ Since the beginning of the 2005-06 season, Bayern has played its home games at t
 <li>Management Team</li>
 </ol>
 
-<h3> History
+<h3> History</h3>
 FC Bayern Munich was founded by members of a Munich gymnastics club (MTV 1879). When a congregation of members of MTV 1879 decided on 27 February 1900 that the footballers of the club would not be allowed to join the German Football Association (DFB), 11 members of the football division left the congregation and on the same evening founded Fusball-Club Bayern Munchen. Within a few months, Bayern achieved high-scoring victories against all local rivals, including a 15–0 win against FC Nordstern, and reached the semi-finals of the 1900-01 South German championship.
 The 1980s were a period of off-field turmoil for Bayern, with many changes in personnel and financial problems. On the field, Paul Breitner and Karl-Heinz Rummenigge, termed FC Breitnigge, led the team to Bundesliga titles in 1980 and 1981. Apart from a DFB-Pokal win in 1982, two relatively unsuccessful seasons followed, after which Breitner retired and former coach Udo Lattek returned. Bayern won the DFB-Pokal in 1984 and went on to win five Bundesliga championships in six seasons, including a double in 1986. European success, however, was elusive during the decade; Bayern managed to claim the runners-up spot in the European Cup in 1982 and 1987.
 The 2001-02 season began with a win in the Intercontinental Cup.Prior to the start of the 2005–06 season, Bayern moved from the Olympiastadion to the new Allianz Arena, which the club shares with 1860 Munich. On the field, their performance in 2006-07 was erratic. Trailing in the league and having lost to Alemannia Aachen in the cup yet again, coach Magath was sacked shortly after the winter break.
 In the 2010-11 season, Bayern were eliminated in the first round of the Champions League knockout phase by Inter Milan on the away goals rule and finished third in the Bundesliga.[48] Van Gaal was fired by Bayern in April 2011. In the 2011-12 season, Heynckes returned to coach Bayern for a second permanent spell but the team was to end the season without a trophy for the second season running. In the 2012-13 season, Bayern won the 2012 DFL-Supercup 2–1 against rivals Borussia Dortmund.Bayern finished the 2017-18 season as Bundesliga champions for the sixth consecutive season, finishing 21 points ahead of second-place Schalke 04. Heynckes retired from professional football, aged 73.
 After it became clear that Heynckes would not continue as head coach, the club began a long and extensive search for a replacement. On 1 July 2018, the former Bayern Munich player Niko Kovac was officially confirmed as the next head coach, signing a three-year deal.
 
-<h3> Players
+<h3> Players</h3>
 |Number|Name|
 |----|----|
 |1|Manuel Neuer|
@@ -46,7 +46,7 @@ After it became clear that Heynckes would not continue as head coach, the club b
 |36|Christian Fruchtl|
 
 
-<h3> Management Team
+<h3> Management Team</h3>
 President FC Bayern Munich and chairman of the board:[Uli Hoenes](https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F)
 <img data-v-545549d3="" data-v-df0ebec6="" src="https://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg" class="graph-img-opacity">
 
