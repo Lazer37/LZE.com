@@ -18,6 +18,7 @@ After it became clear that Heynckes would not continue as head coach, the club b
 
 ### Players
 |Number|Name|
+|----|----|
 |1|Manuel Neuer|
 |4|Niklas Sule|
 |5|Mats Hummels|
