@@ -123,7 +123,7 @@ After it became clear that Heynckes would not continue as head coach, the club b
 </table>
 
 <h3> Management Team</h3>
-President FC Bayern Munich and chairman of the board:[Uli Hoenes](https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F)
+President FC Bayern Munich and chairman of the board:<a href="https://en.wikipedia.org/wiki/Uli_Hoene%C3%9F">Uli Hoenes</a>
 <img data-v-545549d3="" data-v-df0ebec6="" src="https://graph.baidu.com/resource/1043533440c9074c12ecd01553046379.jpg" class="graph-img-opacity">
 
 Chairman:[Karl-Heinz Rummeniggev](https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge)
